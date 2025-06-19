@@ -1,0 +1,4 @@
+repository "TTGame/TTGame@13469824089201@cloud"
+  path "/"
+    br "/main"
+    co "/main"
